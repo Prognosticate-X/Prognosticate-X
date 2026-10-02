@@ -30,3 +30,13 @@
   - **Autonomous Agents & Multi-Agent Systems**: Agent orchestration frameworks, tool-use protocols (like MCP), and self-improving workflows.
   - **AI Engineering & Automation**: Bridging foundation models with real-world developer tools and practical systems.
   - **Applied Systems & Infrastructure**: Low-level runtime environments, smart network routing rules, and experimental toolchains.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prognosticate-X&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prognosticate-X&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
+</div>
+
