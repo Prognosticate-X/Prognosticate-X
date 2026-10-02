@@ -55,15 +55,6 @@
 
 ---
 
-### 🐍 Contribution Activity (贡献贪吃蛇)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prognosticate-X/Prognosticate-X/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prognosticate-X/Prognosticate-X/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Prognosticate-X/Prognosticate-X/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
