@@ -12,7 +12,6 @@
 
   <!-- Badges -->
   <p align="center">
-    <img src="https://hits.sh/github.com/Prognosticate-X.svg?style=flat-square&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Focus-AGI%20%26%20Agents-blueviolet?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Mindset-Continuous%20Exploration-success?style=flat-square" alt="Mindset" />
   </p>
